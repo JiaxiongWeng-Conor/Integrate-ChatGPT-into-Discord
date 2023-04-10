@@ -27,15 +27,19 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 **Step 3 To obtain a Discord token:**
 
 1. Log in to the [Discord Developer portal](https://discord.com/developers/applications).
-2. Create a new application by clicking "New Application" in the top right corner of the "Applications" section on the left side of the screen. Enter the name of your bot and click "Create" to proceed to the next page.
-3. On the next page, click on the "Bot" tab on the left-hand side and then click the "Add Bot" button to create a bot for your application.
+2. Click on the "New Application" button in the top right corner and enter the name of bot in the provided field.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/5f5113de6c78d9d2cbb7940b8600645a3a44f030/Picture/WX20230410-165444@2x.png)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-165931@2x.png)
+3. Click on the "Bot" tab on the left-hand side and then click the "Add Bot" button to create a bot for application.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-170435@2x.png)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-170519@2x.png)
 4. Copy the token by clicking on the "Copy" button next to the token field.
-5. Go to the "Bot" section of your application.
-6. Find the bot you just created and click on the "Add Bot" button on the right-hand side.
-7.Scroll down to the "Token" section and click on the "View Token" button to reveal the token.
-8.If you have already generated a token before, the button will be labeled "Reset Token" instead.
-9.Scroll down to the "Privileged Gateway Intents" section and toggle on the "Message Content" intent.
-10.Click on the "Save Changes" button to save your changes.
+6. Go to the "Bot" section of your application.
+7. Find the bot you just created and click on the "Add Bot" button on the right-hand side.
+8.Scroll down to the "Token" section and click on the "View Token" button to reveal the token.
+9.If you have already generated a token before, the button will be labeled "Reset Token" instead.
+10.Scroll down to the "Privileged Gateway Intents" section and toggle on the "Message Content" intent.
+11.Click on the "Save Changes" button to save your changes.
 
 **Step 4 To set up OAuth:**
 1. Go to the "OAuth2" section on the left-hand side of your application.
