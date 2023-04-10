@@ -25,8 +25,9 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 **Notice:** Every API comes with limited free quota, for details please see [API documentation](https://openai.com/pricing).
 
 **Step 3 Access to Line API**
-1. Once logged in, go to this website for API claims:(https://platform.openai.com/account/api-keys)
-2. Login to account and click on "Create New Security Key" to create the API key.
+1. Creat an account and login [Line Develop](https://developers.line.biz/en/)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/4adb3d68c622b29b0963f103fb00953b836b82b0/Image/WX20230324-144724.png)
+3. Login to account and click on "Create New Security Key" to create the API key.
 
 
 ### Support Me with a Cup of Coffee ☕
