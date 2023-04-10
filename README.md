@@ -26,7 +26,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 
 **Step 3 To obtain a Discord token:**
 
-1. Log in to the Discord Developer portal. [ChatGPT Website](https://discord.com/developers/applications).
+1. Log in to the [Discord Developer portal](https://discord.com/developers/applications).
 2. Create a new application by clicking "New Application" in the top right corner of the "Applications" section on the left side of the screen. Enter the name of your bot and click "Create" to proceed to the next page.
 3. On the next page, click on the "Bot" tab on the left-hand side and then click the "Add Bot" button to create a bot for your application.
 4. Copy the token by clicking on the "Copy" button next to the token field.
