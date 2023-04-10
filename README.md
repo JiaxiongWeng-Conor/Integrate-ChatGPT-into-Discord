@@ -42,7 +42,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-170621@2x.png)
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/c16070182b596282737af924869e06cafdc60d0a/Picture/WX20230410-170714@2x.png)
 
-5. Scroll down to the "Privileged Gateway Intents" section and toggle on the "Message Content" intent. Click on the "Save Changes" button to save your changes.
+5. Scroll down to the "Privileged Gateway Intents" section and toggle on the "Message Content" intent. And then, click on the "Save Changes" button to save your changes.
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/c16070182b596282737af924869e06cafdc60d0a/Picture/WX20230410-170846@2x.png)
 
 **Step 4 To set up OAuth:**
