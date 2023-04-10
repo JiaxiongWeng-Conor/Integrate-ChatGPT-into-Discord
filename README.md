@@ -46,12 +46,12 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/c16070182b596282737af924869e06cafdc60d0a/Picture/WX20230410-170846@2x.png)
 
 **Step 4 To set up OAuth:**
-1. Go to the "OAuth2" section on the left-hand side of your application.
-2. Click on the "URL Generator" option.
-3. In the "SCOPES" section on the left-hand side, select "bot" and in the "BOT PERMISSIONS" section on the right-hand side, select "Administrator".
-4. Copy the URL at the bottom of the page and paste it into your web browser.
-5. Select the server you want to add the bot to.
-6. Click "Continue" and authorize the bot to join the server.
+1. Go to the "OAuth2" section and click on the "URL Generator" option.And then, select "bot" in the "SCOPES" section and select "Administrator" in the "BOT PERMISSIONS" section.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/6e18125856374fad7306ced4bc657cecb2121a53/Picture/WX20230410-171141@2x.png)
+2. Copy the URL at the bottom of the page and paste it into your web browser.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/6e18125856374fad7306ced4bc657cecb2121a53/Picture/WX20230410-171244@2x.png)
+4. Select the server you want to add the bot to and click "Continue" and authorize the bot to join the server.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/6e18125856374fad7306ced4bc657cecb2121a53/Picture/WX20230410-171428@2x.png)
 
 ### Support Me with a Cup of Coffee ☕
 If you think this small application useful and would like to show your appreciation, please consider buying me a cup of coffee to support my efforts! Your generosity will not only fuel my motivation to continue working on this project, but also help me cover the costs associated with development and maintenance.
