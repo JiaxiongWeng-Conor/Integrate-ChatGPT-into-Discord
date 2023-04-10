@@ -33,13 +33,11 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 3. Click on the "Bot" tab on the left-hand side and then click the "Add Bot" button to create a bot for application.
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-170435@2x.png)
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-170519@2x.png)
-4. Copy the token by clicking on the "Copy" button next to the token field.
-6. Go to the "Bot" section of your application.
-7. Find the bot you just created and click on the "Add Bot" button on the right-hand side.
-8.Scroll down to the "Token" section and click on the "View Token" button to reveal the token.
-9.If you have already generated a token before, the button will be labeled "Reset Token" instead.
-10.Scroll down to the "Privileged Gateway Intents" section and toggle on the "Message Content" intent.
-11.Click on the "Save Changes" button to save your changes.
+4. Scroll down to the "Token" section and click on the "View Token" button to reveal the token.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/44d472a7266a8f7c432f0ef480a6ee0b93c1e2ea/Picture/WX20230410-170621@2x.png)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/c16070182b596282737af924869e06cafdc60d0a/Picture/WX20230410-170714@2x.png)
+5.Scroll down to the "Privileged Gateway Intents" section and toggle on the "Message Content" intent. Click on the "Save Changes" button to save your changes.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/c16070182b596282737af924869e06cafdc60d0a/Picture/WX20230410-170846@2x.png)
 
 **Step 4 To set up OAuth:**
 1. Go to the "OAuth2" section on the left-hand side of your application.
