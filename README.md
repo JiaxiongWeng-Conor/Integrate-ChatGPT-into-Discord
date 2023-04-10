@@ -26,8 +26,15 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 
 **Step 3 Access to Line API**
 1. Creat an account and login [Line Develop](https://developers.line.biz/en/)
-![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/4adb3d68c622b29b0963f103fb00953b836b82b0/Image/WX20230324-144724.png)
-3. Click "Create a new provider".
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-LINE/blob/5b63a62bc8af74dd0ac78f8c378039853021bac0/picture/WX20230410-103518@2x.png)
+2.Click "Create a new provider".
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-LINE/blob/94f20fb293cbd42f27dbfd03906789432e24c46f/picture/WX20230410-155844@2x.png)
+3.Click "Create a Messaging API channel" in Channel and fill in all the basic information
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-LINE/blob/f6e0b2f160b5f2b94eea5dcd27e2c732c41e0296/picture/WX20230410-160137@2x.png)
+4.There is a Channel Secret under Basic Setting, press Issue, which will be generated as LINE_CHANNEL_SECRET
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-LINE/blob/668fb8c00179d9b26674e36b32ec45bc40d7b761/picture/WX20230410-161519@2x.png)
+5.Under the Messaging API, there is a Channel access token -> press Issue, which is generated as LINE_CHANNEL_ACCESS_TOKEN
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-LINE/blob/88bad0eade65a50f1aa30ab6d84b2973048ba522/picture/WX20230410-161928@2x.png)
 
 
 ### Support Me with a Cup of Coffee ☕
