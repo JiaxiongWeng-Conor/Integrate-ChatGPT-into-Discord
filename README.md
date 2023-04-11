@@ -83,7 +83,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 
 - Role word for ChatGPT to play (Users can set their own prompt words for the role that ChatGPT will play.):
   - key: SYSTEM_MESSAGE
-  - value: You are a helpful assistant.
+  - value: Assist an agile development team of 7-9 members, including a product owner, scrum master, and development team, with daily project management tasks while facilitating open and equal communication among team members..
 
 - Discord Token:[View previous steps](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/edit/main/README.md#L42)
   - key: DISCORD_TOKEN
