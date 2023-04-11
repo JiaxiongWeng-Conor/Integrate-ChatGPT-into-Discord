@@ -2,7 +2,7 @@
 
 ### Introduction:
 
-In today's fast-paced world, it is crucial to have quick and efficient access to information. As the consumption of video content continues to grow exponentially, finding a way to extract key information from these videos becomes increasingly important. This guide will explore the innovative integration of ChatGPT with Apple's Siri voice assistant, focusing on the automatic generation of video content summaries. By combining the advanced language processing capabilities of ChatGPT with Siri's user-friendly voice interface, we unlock a powerful solution for streamlining information retrieval.
+An innovative GitHub project that seamlessly integrates ChatGPT into Discord, revolutionizing the way you collaborate with your team! This powerful tool enables both text and image generation on-demand, fostering creativity and efficiency in your project discussions. Designed as a personal team assistant, ChatGPT-Discord anticipates your needs, automating tasks and providing valuable insights to streamline your team's workflow. Get ready to experience a whole new level of productivity and creativity with ChatGPT-Discord, the ultimate AI-powered collaboration booster for your Discord channels!
 
 ### Steps for Integrating ChatGPT into Discord
 
