@@ -16,7 +16,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/f1d2e83ecaab9697e5c99dbefbf21963fa44e586/Image/WX20230324-143253.png)
 
 **Step 2 Access to ChatGPT API**
-1. Once logged in, go to this website for API claims:(https://platform.openai.com/account/api-keys)
+1. Once logged in, go to this website for [API claims:](https://platform.openai.com/account/api-keys)
 2. Login to account and click on "Create New Security Key" to create the API key.
 
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/4adb3d68c622b29b0963f103fb00953b836b82b0/Image/WX20230324-144724.png)
