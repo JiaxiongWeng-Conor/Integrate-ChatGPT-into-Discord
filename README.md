@@ -73,7 +73,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 1. Click on "Tools" in the bottom left corner of the page and select "Secrets". And then, Click "Got it" to proceed.
 2. Add the following environment variables:
 
-- OpenAI API Token:[View previous steps](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/edit/main/README.md#L42)
+- OpenAI API Token:(View to step 2)
   - key: OPENAI_API
   - value: sk-FoXXXX
 
@@ -85,7 +85,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
   - key: SYSTEM_MESSAGE
   - value: Assist an agile development team of 7-9 members, including a product owner, scrum master, and development team, with daily project management tasks while facilitating open and equal communication among team members..
 
-- Discord Token:[View previous steps](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/edit/main/README.md#L42)
+- Discord Token:(View to step 3)
   - key: DISCORD_TOKEN
   - value: MTA3NXXX
 
