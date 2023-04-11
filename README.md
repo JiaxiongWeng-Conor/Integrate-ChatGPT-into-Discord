@@ -57,6 +57,7 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 1. Go to the Integrate-ChatGPT-into-Discord on GitHub.
 2. Click on the "Star" button to support the developer.
 3. Click on the "Fork" button to copy the code.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/b12338b3a4848af34a697e8fb6da9319ef9ac6c0/Picture/Snipaste_2023-04-11_10-39-45.jpg)
 
 **Step 6 Deploy for free**
 1. Go to the [Replit](https://replit.com/).
