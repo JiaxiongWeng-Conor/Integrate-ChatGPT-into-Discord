@@ -81,13 +81,16 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
   - key: OPENAI_MODEL_ENGINE
   - value: gpt-3.5-turbo
 
-- Role word for ChatGPT to play (currently there are no official instructions on this, players can test it themselves):
+- Role word for ChatGPT to play (Users can set their own prompt words for the role that ChatGPT will play.):
   - key: SYSTEM_MESSAGE
   - value: You are a helpful assistant.
 
 - Discord Token:[View previous steps](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/edit/main/README.md#L42)
   - key: DISCORD_TOKEN
-  - value: [obtained from step 1] MTA3NXXX
+  - value: MTA3NXXX
+
+
+
 
 ### Support Me with a Cup of Coffee ☕
 If you think this small application useful and would like to show your appreciation, please consider buying me a cup of coffee to support my efforts! Your generosity will not only fuel my motivation to continue working on this project, but also help me cover the costs associated with development and maintenance.
