@@ -63,6 +63,9 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 1. Go to the [Replit](https://replit.com/).
 2. Click on the "Sign Up" and sign in with Github account. You can click "Skip" to bypass the initial setup process.
 3. On the Replit homepage, click on "Create" in the center of the page. In the pop-up window, click on "Import from Github" in the top right corner.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/947f2e2bee882ebee52e3592bd551338154d899a/Picture/WX20230411-105951.png)
+4. Just wait for it~
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/947f2e2bee882ebee52e3592bd551338154d899a/Picture/WX20230411-110321.png)
 
 **Step 7 Run the code**
 To set environment variables for your ChatGPT Discord Bot, follow these steps:
