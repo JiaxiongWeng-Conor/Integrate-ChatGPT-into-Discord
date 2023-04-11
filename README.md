@@ -65,31 +65,29 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 3. On the Replit homepage, click on "Create" in the center of the page. In the pop-up window, click on "Import from Github" in the top right corner.
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/947f2e2bee882ebee52e3592bd551338154d899a/Picture/WX20230411-105951.png)
 4. Just wait for it~
+
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/947f2e2bee882ebee52e3592bd551338154d899a/Picture/WX20230411-110321.png)
 
-**Step 7 Run the code**
-To set environment variables for your ChatGPT Discord Bot, follow these steps:
+**Step 7 set environment variables**
 
-1. After importing the code from GitHub, go to the Replit project management page.
-2. Click on "Tools" in the bottom left corner of the page and select "Secrets".
-3. Click "Got it" to proceed.
-4. Add the following environment variables:
+1. Click on "Tools" in the bottom left corner of the page and select "Secrets". And then, Click "Got it" to proceed.
+2. Add the following environment variables:
 
-OpenAI API Token:
-key: OPENAI_API
-value: [obtained from step 1] sk-FoXXXX
+- OpenAI API Token:[View previous steps](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/edit/main/README.md#L42)
+  - key: OPENAI_API
+  - value: sk-FoXXXX
 
-Selected model:
-key: OPENAI_MODEL_ENGINE
-value: gpt-3.5-turbo
+- Selected model:
+  - key: OPENAI_MODEL_ENGINE
+  - value: gpt-3.5-turbo
 
-Role word for ChatGPT to play (currently there are no official instructions on this, players can test it themselves):
-key: SYSTEM_MESSAGE
-value: You are a helpful assistant.
+- Role word for ChatGPT to play (currently there are no official instructions on this, players can test it themselves):
+  - key: SYSTEM_MESSAGE
+  - value: You are a helpful assistant.
 
-Discord Token:
-key: DISCORD_TOKEN
-value: [obtained from step 1] MTA3NXXX
+- Discord Token:[View previous steps](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/edit/main/README.md#L42)
+  - key: DISCORD_TOKEN
+  - value: [obtained from step 1] MTA3NXXX
 
 ### Support Me with a Cup of Coffee ☕
 If you think this small application useful and would like to show your appreciation, please consider buying me a cup of coffee to support my efforts! Your generosity will not only fuel my motivation to continue working on this project, but also help me cover the costs associated with development and maintenance.
