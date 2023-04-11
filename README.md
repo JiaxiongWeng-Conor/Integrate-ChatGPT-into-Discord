@@ -53,6 +53,40 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
 4. Select the server you want to add the bot to and click "Continue" and authorize the bot to join the server.
 ![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/6e18125856374fad7306ced4bc657cecb2121a53/Picture/WX20230410-171428@2x.png)
 
+**Step 5 Fork code from Github**
+1. Go to the Integrate-ChatGPT-into-Discord on GitHub.
+2. Click on the "Star" button to support the developer.
+3. Click on the "Fork" button to copy the code.
+
+**Step 6 Deploy for free**
+1. Go to the [Replit](https://replit.com/).
+2. Click on the "Sign Up" and sign in with Github account. You can click "Skip" to bypass the initial setup process.
+3. On the Replit homepage, click on "Create" in the center of the page. In the pop-up window, click on "Import from Github" in the top right corner.
+
+**Step 7 Run the code**
+To set environment variables for your ChatGPT Discord Bot, follow these steps:
+
+1. After importing the code from GitHub, go to the Replit project management page.
+2. Click on "Tools" in the bottom left corner of the page and select "Secrets".
+3. Click "Got it" to proceed.
+4. Add the following environment variables:
+
+OpenAI API Token:
+key: OPENAI_API
+value: [obtained from step 1] sk-FoXXXX
+
+Selected model:
+key: OPENAI_MODEL_ENGINE
+value: gpt-3.5-turbo
+
+Role word for ChatGPT to play (currently there are no official instructions on this, players can test it themselves):
+key: SYSTEM_MESSAGE
+value: You are a helpful assistant.
+
+Discord Token:
+key: DISCORD_TOKEN
+value: [obtained from step 1] MTA3NXXX
+
 ### Support Me with a Cup of Coffee ☕
 If you think this small application useful and would like to show your appreciation, please consider buying me a cup of coffee to support my efforts! Your generosity will not only fuel my motivation to continue working on this project, but also help me cover the costs associated with development and maintenance.
 
