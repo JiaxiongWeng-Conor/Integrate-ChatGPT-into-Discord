@@ -89,15 +89,30 @@ In today's fast-paced world, it is crucial to have quick and efficient access to
   - key: DISCORD_TOKEN
   - value: MTA3NXXX
 
+**Step 8 Run the code**
+1. Click on "Run". If the Code is running successfully, the screen will display the message "Hello. I am alive!". Make sure to copy the URL, as it will be used in the next step.
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/947f2e2bee882ebee52e3592bd551338154d899a/Picture/WX20230411-110321.png)
 
+**Notice:** 
+1) If there are no requests made within an hour, the program will be interrupted. Therefore, the following steps need to be taken.
 
+2. Register to [cron-job.org](https://cron-job.org/en/) to set up scheduled requests.(Free)
+
+3. Select "CREATE CRONJOB" in the upper right corner of the dashboard.
+
+4. In the "Title" field, enter "ChatGPT-Discord-Bot".
+2. In the "URL" field, enter the URL obtained from the previous step.
+3. Set the frequency to every 5 minutes. And Click on "CREATE" to create the CronJob.
+4. 
 
 ### Support Me with a Cup of Coffee ☕
 If you think this small application useful and would like to show your appreciation, please consider buying me a cup of coffee to support my efforts! Your generosity will not only fuel my motivation to continue working on this project, but also help me cover the costs associated with development and maintenance.
 
+
+
 To buy me a coffee, simply scan or clik below:
 
-![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrating-ChatGPT-to-siri/blob/353dc1ae3fdcc5ca2f2e4a8f8c017fddb3a051b1/Image/IMG_6200.jpg)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/d7987f5e45a2112123a020043c0414f59d430264/Picture/WX20230411-154320.png)
 
 [Link of venmo](https://account.venmo.com/u/Jiaxiong-Weng)
 
