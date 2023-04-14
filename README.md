@@ -1,6 +1,6 @@
 # Integrating-ChatGPT-into-Discord
 
-### Introduction:
+### Introduction: 
 
 An innovative project that seamlessly integrates ChatGPT into Discord, revolutionizing the way you collaborate with your team! This powerful tool enables both text and image generation on-demand, fostering creativity and efficiency in your project discussions. Not only does it harness the power of ChatGPT, but it also utilizes DALL-E 2 for advanced image generation capabilities.
 
