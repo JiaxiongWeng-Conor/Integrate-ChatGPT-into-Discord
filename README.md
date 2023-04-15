@@ -93,7 +93,7 @@ Designed as a personal team assistant, ChatGPT-Discord anticipates your needs, a
 
 **Step 8 Run the code**
 1. Click on "Run". If the Code is running successfully, the screen will display the message "Hello. I am alive!". Make sure to copy the URL, as it will be used in the next step.
-![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/d7987f5e45a2112123a020043c0414f59d430264/Picture/WX20230411-154320.png)
+![Github Octocat mascot](https://github.com/JiaxiongWeng-Conor/Integrate-ChatGPT-into-Discord/blob/627bf719c791981bdda5945c70fa0f1ab86375e6/Picture/WX20230415-103027@2x.png)
 
 
 **Notice:** 
