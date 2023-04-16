@@ -1,4 +1,4 @@
-# Integrating-ChatGPT-into-Discord
+# Integrating-ChatGPT-into-Discord 
 
 ### Introduction: 
 
